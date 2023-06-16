@@ -45,10 +45,10 @@ Here are some ideas to get you started:
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>  
-  <a href="https://www.python.org" target="_blank"> 
+  <a href="https://www.vuejs.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/> 
   </a>  
-  <a href="https://www.python.org" target="_blank"> 
+  <a href="https://www.docker.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
   </a>  
   <a href="https://www.w3schools.com/css/" target="_blank"> 
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-  <a href="https://www.linux.org/" target="_blank"> 
+  <a href="https://www.anaconda.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> 
   </a> 
 </p>
