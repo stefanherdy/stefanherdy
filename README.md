@@ -66,6 +66,12 @@ Here are some ideas to get you started:
   <a href="https://www.anaconda.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> 
   </a> 
+  <a href="https://www.code.visualstudio.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/vscode-original.svg" alt="vscode" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.cplusplus.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/c++-original.svg" alt="c++" width="40" height="40"/> 
+  </a> 
 </p>
 
 
