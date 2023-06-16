@@ -72,6 +72,9 @@ Here are some ideas to get you started:
   <a href="https://www.cplusplus.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
   </a> 
+  <a href="https://www.jupyter.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/jupyter-original.svg" alt="jupyter width="40" height="40"/> 
+  </a> 
 </p>
 
 
