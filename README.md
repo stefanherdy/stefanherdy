@@ -67,7 +67,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> 
   </a> 
   <a href="https://www.code.visualstudio.com/" target="_blank"> 
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/visuelstudiocode-original.svg](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)" alt="vscode" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" width="40" height="40"/> 
   </a> 
   <a href="https://www.cplusplus.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
