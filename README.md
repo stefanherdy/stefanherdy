@@ -77,10 +77,7 @@ Here are some ideas to get you started:
   </a> 
   <a href="https://www.jupyter.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="jupyter" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.jupyter.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/influxdb/influxdb-original.svg" alt="jupyter" width="40" height="40"/> 
-  </a> 
+  </a>
 </p>
 
 
