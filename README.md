@@ -76,10 +76,10 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter" width="40" height="40"/> 
   </a> 
   <a href="https://www.jupyter.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/grafana-original.svg" alt="jupyter" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="jupyter" width="40" height="40"/> 
   </a> 
   <a href="https://www.jupyter.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/influxdb-original.svg" alt="jupyter" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/influxdb/influxdb-original.svg" alt="jupyter" width="40" height="40"/> 
   </a> 
 </p>
 
