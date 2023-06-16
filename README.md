@@ -67,13 +67,13 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> 
   </a> 
   <a href="https://www.code.visualstudio.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" width="40" height="40"/> 
+    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/> 
   </a> 
   <a href="https://www.cplusplus.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width="40" height="40"/> 
   </a> 
   <a href="https://www.jupyter.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/jupyter-original.svg" alt="jupyter width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/jupyter-original.svg" alt="jupyter" width="40" height="40"/> 
   </a> 
 </p>
 
