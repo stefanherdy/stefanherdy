@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **stefan.herdy@uni-graz.at**
 
-- 💬 Ask me about Deep Learning, Image Processing, Generative Modelling, Semantic Segmentation, 
+- 💬 Ask me about Deep Learning, Image Processing, Generative Modelling, Semantic Segmentation etc.
 
 <!--
 <h3 align="center">Connect with me:</h3>
