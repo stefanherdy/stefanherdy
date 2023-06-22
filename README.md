@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my **Deep Learning Projects**
 
+- 🚀 **New webpage coming soon!** 🎆🎆🎆
+
 - 🌱 I’m currently learning **Python, JavaScript, HTML5 and CSS3**
 
 - 👯 I’m looking to collaborate on cool **machine learning projects** as well as on **front-end development projects**
