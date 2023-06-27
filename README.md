@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefan-herdy/)
+<a href="https://www.linkedin.com/in/stefanherdy/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 [![image]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.icons8.com/fluency/48/000000/apple-mail.png))](mailto:stefan.herdy@uni-graz.at)
 
 
