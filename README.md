@@ -37,14 +37,14 @@ Here are some ideas to get you started:
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-
+<p
 <a href="https://www.linkedin.com/in/stefanherdy/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 
 
 [<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail"  height="50" width="50">](mailto:stefan.herdy@uni-graz.at)
 
 
-
+</p>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
