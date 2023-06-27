@@ -39,8 +39,12 @@ Here are some ideas to get you started:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/stefanherdy/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-[![image]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.icons8.com/fluency/48/000000/apple-mail.png))](mailto:stefan.herdy@uni-graz.at)
-
+<a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a>
+<a
+<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:stefan.herdy@uni-graz.at)
+</a>
 
 
 </div>
