@@ -30,12 +30,11 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on cool **machine learning projects** as well as on **front-end development projects**
 
-- 📫 How to reach me: **stefan.herdy@uni-graz.at**
 
 - 💬 Ask me about Deep Learning, Image Processing, Generative Modelling, Semantic Segmentation etc.
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me 🤝 </h3>
 <div align="center">
 <p align="center">
   <a href="https://www.linkedin.com/in/stefanherdy/" target="blank">
