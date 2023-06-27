@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <h3 ></h3>
 <h3 align="center">Connect with me 🤝 </h3>
-
+<h3 ></h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/stefan-herdy/" target="blank">
      <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
@@ -43,9 +43,9 @@ Here are some ideas to get you started:
   <a href = "mailto: stefan.herdy@uni-graz.at">
      <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
-
+<h3 ></h3>
 <h3 align="center">Languages and Tools:</h3>
-
+<h3 ></h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="jupyter" width="40" height="40"/> 
   </a>
 </p>
-
+<h3 ></h3>
 
 
 
