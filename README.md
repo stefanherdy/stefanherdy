@@ -44,8 +44,7 @@ Here are some ideas to get you started:
   <a href = "mailto: stefan.herdy@uni-graz.at">
      <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
-<h3 ></h3>
-<h3 align="center">Languages and Tools:</h3>
+<hr>
 <h3 ></h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank"> 
