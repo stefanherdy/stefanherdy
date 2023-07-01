@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Deep Learning, Image Processing, Generative Modelling, Semantic Segmentation etc.
 
 <h3 ></h3>
-<h3 ></h3>
+<h3 align="center">  </h3>
 <h3 align="center">Connect with me 🤝 </h3>
 <h3 ></h3>
 <p align="center">
