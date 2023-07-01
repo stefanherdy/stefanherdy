@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Deep Learning, Image Processing, Generative Modelling, Semantic Segmentation etc.
 
-<p ></p>
-<h3 align="center">  </h3>
+<br>
 <h3 align="center">Connect with me 🤝 </h3>
 <h3 ></h3>
 <p align="center">
@@ -44,8 +43,8 @@ Here are some ideas to get you started:
   <a href = "mailto: stefan.herdy@uni-graz.at">
      <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
-<hr>
 <h3 ></h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
