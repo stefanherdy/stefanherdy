@@ -89,5 +89,7 @@ Here are some ideas to get you started:
 
 ------
 
-[Stefan Herdy](https://github.com/stefanherdy)
+[Github: Stefan Herdy](https://github.com/stefanherdy)
+[Github Gists: Stefan Herdy](https://gist.github.com/stefanherdy)
+
 
