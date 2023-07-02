@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 ------
 
-[Github: Stefan Herdy](https://github.com/stefanherdy)
+[Github: Stefan Herdy <br>](https://github.com/stefanherdy)
 [Github Gists: Stefan Herdy](https://gist.github.com/stefanherdy)
 
 
