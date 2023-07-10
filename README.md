@@ -42,7 +42,9 @@ Here are some ideas to get you started:
   </a>
   <a href = "mailto: stefan.herdy@uni-graz.at">
      <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
-</p>
+  <a href = "https://medium.com/@stefan.herdy">
+     <img align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" height="40" width="50"/></a> </p>
+
 <h3 ></h3>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
