@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🔭 I’m currently working on my **Deep Learning Projects**
+- 🔭 I’m currently working on my **Deep Learning Projects** and on our **New Website**
 
 - 🚀 **New webpage coming soon!** 🎆🎆🎆
 
