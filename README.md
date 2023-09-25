@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🚀 **New webpage coming soon!** 🎆🎆🎆
 
-- 🌱 I’m currently learning **Python, JavaScript and VueJS**
+- 🌱 I’m currently learning **Python, JavaScript and Vue.js**
 
 - 👯 I’m looking to collaborate on cool **machine learning projects** as well as on **front-end development projects**
 
