@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 </p>
 <h3 ></h3>
 
-
+![Top Langs](https://stats-fihhnmo1q-stefans-projects-4d738610.vercel.app/api/top-langs/?username=stefanherdy&theme=tokyonight)
 
 ------
 
