@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 <h3 ></h3>
 
 <p align="center">
-  <img src="https://stats-r4oy2dajp-stefans-projects-4d738610.vercel.app/api/top-langs/?username=stefanherdy&theme=dark&layout=compact&langs_count=8" />
+  <img src="https://stats-110djwe1l-stefans-projects-4d738610.vercel.app/api/top-langs/?username=stefanherdy&theme=dark&layout=compact&langs_count=8" />
 </p>
 
 ------
