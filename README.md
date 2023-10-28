@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 <h3 ></h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/stefan-herdy/" target="blank">
-     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+     <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="40" width="40" /></a>
   <a href = "mailto: stefan.herdy@uni-graz.at">
-     <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+     <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="35" width="40" /></a>
   <a href = "https://medium.com/@stefan.herdy">
      <img align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" height="40" width="50"/></a> </p>
 
