@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <a href = "https://medium.com/@stefan.herdy">
      <img align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" alt="medium stefan herdy" height="40" width="50"/></a> 
   <a href = "https://stefanherdy.github.io">
-     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="personal homepage stefan herdy" height="40" width="40" /></a>
+     <img align="center" src="https://github.com/stefanherdy/stefanherdy.github.io/blob/main/imgs/web.png" alt="personal homepage stefan herdy" height="40" width="40" /></a>
 </p>
 
 <h3 ></h3>
