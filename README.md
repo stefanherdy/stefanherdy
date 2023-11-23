@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hi 👋, I'm Stefan </h1>
 <!-- <h3 align="center">A passionate Python and Front-End developer from Austria </h3> -->
 <!--
