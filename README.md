@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 <!--
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-- 🔭 I’m currently working on my **Deep Learning Projects** and on our [**New Website**](https://github.com/Graz-Institute-of-Biology/biocrust-app).
+- 🔭 I’m currently working on my **Deep Learning Projects** and on our [**New Webpage**](https://github.com/Graz-Institute-of-Biology/biocrust-app).
 - 🚀 **New webpage coming soon!** 🎆🎆🎆
 - 🌱 I’m currently learning **Python, JavaScript and Vue.js**.
 - 👯 I’m looking to collaborate on cool **machine learning projects** as well as on **front-end development projects**.
