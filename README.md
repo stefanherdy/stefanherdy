@@ -57,9 +57,11 @@ Here are some ideas to get you started:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
   <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="linux" width="40" height="40"/></a> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a> 
   <a href="https://www.cplusplus.com/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width="40" height="40"/></a> 
+  <a href="https://de.mathworks.com/products/matlab.html" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/></a> 
 </p>
 <h3 ></h3>
 
@@ -87,6 +89,8 @@ Here are some ideas to get you started:
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 </p>
+<h3 ></h3>
+<br>
 
 <p align="center">
   <img src="https://stats-110djwe1l-stefans-projects-4d738610.vercel.app/api/top-langs/?username=stefanherdy&theme=dark&layout=compact&langs_count=8" />
