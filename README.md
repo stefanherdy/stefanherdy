@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 <p align="center">
 <!--<a href="https://github.com/stefanherdy">GitHub: Stefan Herdy</a>-->  
 <a href="https://gist.github.com/stefanherdy">GitHub Gists: Stefan Herdy</a>
-<a href="https://stefanherdy.github.io">Personal Homepage</a>
+<a href="https://stefanherdy.com">Personal Homepage</a>
 </p>
 
 
