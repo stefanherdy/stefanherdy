@@ -39,7 +39,7 @@ Here are some ideas to get you started:
      <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="mail stefan herdy" height="35" width="40" /></a>
   <a href = "https://medium.com/@stefan.herdy">
      <img align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" alt="medium stefan herdy" height="40" width="50"/></a> 
-  <a href = "https://stefanherdy.github.io">
+  <a href = "https://stefanherdy.com">
      <img align="center" src="https://github.com/stefanherdy/pytorch-semantic-segmentation/blob/main/img/web.png" alt="personal homepage stefan herdy" height="40" width="40" /></a>
 </p>
 
